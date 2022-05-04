@@ -1,3 +1,5 @@
+# Food Ordering App: 'The Samurai's Kick'
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
