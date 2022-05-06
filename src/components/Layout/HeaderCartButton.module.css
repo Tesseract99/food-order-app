@@ -15,7 +15,8 @@
 
 .button:hover,
 .button:active {
-  background-color: #900d0d;
+  /* background-color: #900d0d; */
+  background-color: rgb(214, 183, 3);
   color: white;
 }
 
